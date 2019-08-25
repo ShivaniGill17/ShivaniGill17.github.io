@@ -1,0 +1,55 @@
+
+.utsav_page{
+    background-image: url(../images/utsav_bg2-01.jpg);
+     width: 100%;
+    left: 0;
+    right: 0;
+    background-size: cover;
+/*    background-repeat: no-repeat;*/
+    background-position: center;
+    text-align: -webkit-center;
+    margin-bottom: 100px;
+}
+
+.utsav_pg_logo{
+    margin-top: 20px;
+}
+
+.utsav_descr{
+    font-family: 'Marck Script', cursive;
+    font-size: 20px;
+    color: #ecfeff;
+}
+
+.utsav_descr>h3{
+    font-family: 'Carter One', cursive;
+    text-decoration: underline;
+    margin-top: 30px;
+    color: #ffe500;
+    font-size: 28px;
+}
+
+.utsav_descr>hr{
+        width: 25%;
+    border: 2px solid #8bd0c0;
+}
+
+.utsav_descr>h4{
+    font-family: 'Carter One', cursive;
+    text-align: left;
+    margin-top: 30px;
+    color: #a7ffeb;
+    font-size: 20px;
+}
+
+.utsav_descr .act-title{
+    font-family: 'Carter One', cursive;
+    color: #000;
+}
+
+
+.folk-dnce{
+     margin-top: 20px;
+    width: 250px;
+    margin-bottom: 30px;
+}
